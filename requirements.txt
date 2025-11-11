@@ -1,0 +1,3 @@
+textual>=0.55
+textual-dev>=1.6
+
